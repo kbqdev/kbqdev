@@ -15,7 +15,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kbqdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kbqdev&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 💻 Tech Stack:
