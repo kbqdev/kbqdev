@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Bright
+
+<img src="images/github-user-contribution.svg" alt="react" width="32" height="32"/>
 <p>
 <h5>❄ I’m currently working on React Native.</h5>
 <h5>⛰︎ I’m currently learning backend with Node.js.</h5>
