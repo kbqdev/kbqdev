@@ -6,7 +6,7 @@
 <h5>⛰︎ I’m currently learning backend with Node.js.</h5>
 </p>
 
-☎ Contact support: ☟
+☎ Contact me: ☟
 
    <h4><strong><a href="https://t.me/BrightKieu">👉 Telegram 👈</a></strong></h4>
    <h4><strong><a href="https://codecanyon.net/user/brightteam">👉 Codecanyon 👈</a></strong></h4>
