@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bright
 
 🔭 I’m currently working on React Native, React JS.
-👨‍💻 Some my projects are available at <h4><strong><a href="1.envato.market/eK5xLQ">👉 Here 👈</a></strong></h4>
+<h4>👨‍💻 Some my projects are available at</h4><h4><strong><a href="1.envato.market/eK5xLQ">👉 Here 👈</a></strong></h4>
 
 📫 How to reach me: 
 
