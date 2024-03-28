@@ -5,7 +5,7 @@
 📫 How to reach me: ☟
 
    <h4><strong><a href="https://t.me/BrightKieu">👉 Telegram 👈</a></strong></h4>
-   <h4><strong><a href="https://codecanyon.net/user/brightteam">👉 Codecanyon 👈</a></strong></h4>
+   <h4><strong><a href="1.envato.market/eK5xLQ">👉 Codecanyon 👈</a></strong></h4>
  
 ⚡ Fun fact: I love video game and travel.
 
